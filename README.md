@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[블로그](https://www.notion.so/handnew/Level-Up-5ca2d11fe8bd43b99ffae83b962a0298)
+
 <!--
 **handnew04/handnew04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
